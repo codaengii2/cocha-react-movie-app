@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cocha-react-movie-app/static/css/main.ac41eca8.css",
+    "main.js": "/cocha-react-movie-app/static/js/main.4c8f3a4a.js",
+    "index.html": "/cocha-react-movie-app/index.html",
+    "main.ac41eca8.css.map": "/cocha-react-movie-app/static/css/main.ac41eca8.css.map",
+    "main.4c8f3a4a.js.map": "/cocha-react-movie-app/static/js/main.4c8f3a4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac41eca8.css",
+    "static/js/main.4c8f3a4a.js"
+  ]
+}
